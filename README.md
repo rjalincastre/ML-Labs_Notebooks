@@ -1,4 +1,4 @@
-# ML-Labs_Notebooks
+# ML-Practice-Notebooks
 
 ## 🧠 Topics Covered
 
@@ -19,7 +19,7 @@
 
 ## 🎓 Context
 
-These labs are part of the *Machine Learning Analyst* program at NorQuest College. The focus is on applying ML techniques to real-world data and building a solid foundation for future work in data science and analytics.
+These notebooks focus on applying ML techniques to real-world data and building a solid foundation for future work in data science and analytics.
 
 ## 📌 Notes
 
