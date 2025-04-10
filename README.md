@@ -28,4 +28,4 @@ These notebooks focus on applying ML techniques to real-world data and building 
 
 ---
 
-Feel free to explore, fork, or use these labs for your own learning!
+Feel free to explore for your own learning!
